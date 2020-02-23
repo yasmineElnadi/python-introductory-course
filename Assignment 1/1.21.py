@@ -1,0 +1,55 @@
+# draw a clock
+import turtle
+
+turtle.Screen().title("Analog Clock")
+turtle.speed(0)
+
+turtle.color("blue")
+turtle.penup()
+turtle.goto(0,-200)
+turtle.pendown()
+turtle.circle(200)
+
+turtle.color("black")
+turtle.penup()
+turtle.goto(-190,-13)
+turtle.write("9", font=("Arial",18,"normal"), align="left")
+turtle.goto(0,180)
+turtle.write("12", font=("Arial",18,"normal"),align="center")
+turtle.goto(200,-13)
+turtle.write("3", font=("Arial",18,"normal"), align="right")
+turtle.goto(0,-200)
+turtle.write("6",font=("Arial",18,"normal"), align="center")
+turtle.goto(0,-230)
+turtle.write("9:15:00",font=("Arial",18,"normal"), align="center")
+turtle.pendown()
+
+
+turtle.pensize(5)
+turtle.color("black")
+turtle.penup()
+turtle.goto(0,0)
+turtle.setheading(90)
+turtle.right(270)
+turtle.pendown()
+turtle.forward(100)
+
+turtle.pensize(3)
+turtle.color("black")
+turtle.penup()
+turtle.goto(0,0)
+turtle.setheading(90)
+turtle.right(90)
+turtle.pendown()
+turtle.forward(150)
+
+turtle.pensize(1)
+turtle.color("black")
+turtle.penup()
+turtle.goto(0,0)
+turtle.setheading(90)
+turtle.right(0)
+turtle.pendown()
+turtle.forward(150)
+
+turtle.ht()
