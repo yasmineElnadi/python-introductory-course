@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6ce206-7050-4d17-a1f4-11abe1ea4cfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z6XYhhFCeTUVuRMZPO1ryMa5Gv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.3.1">
+    <configuration name="3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.5try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.5try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.5try2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.5try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3.1" />
+        <item itemvalue="Python.3.5try" />
+        <item itemvalue="Python.3.5try2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6ce206-7050-4d17-a1f4-11abe1ea4cfe" name="Default Changelist" comment="" />
+      <created>1584160567293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584160567293</updated>
+      <workItem from="1584160571666" duration="15067000" />
+      <workItem from="1584181378524" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1218" height="135" key="GridCell.Tab.0.bottom" timestamp="1584181439197">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584172648088" />
+    <state width="1218" height="135" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1584181439197" />
+    <state width="1218" height="135" key="GridCell.Tab.0.center" timestamp="1584181439196">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584172648087" />
+    <state width="1218" height="135" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1584181439196" />
+    <state width="1218" height="135" key="GridCell.Tab.0.left" timestamp="1584181439196">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584172648086" />
+    <state width="1218" height="135" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1584181439196" />
+    <state width="1218" height="135" key="GridCell.Tab.0.right" timestamp="1584181439196">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584172648088" />
+    <state width="1218" height="135" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1584181439196" />
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor" timestamp="1584160623202">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1584160623202" />
+    <state x="317" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1584160578024">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="317" y="250" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1584160578024" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment_3$3_5try2.coverage" NAME="3.5try2 Coverage Results" MODIFIED="1584176185156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_3$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1584181433111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_3$3_5try.coverage" NAME="3.5try Coverage Results" MODIFIED="1584181259093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
